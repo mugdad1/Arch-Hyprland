@@ -1,0 +1,3 @@
+[submodule "GTK-themes-icons"]
+	path = GTK-themes-icons
+	url = https://github.com/JaKooLit/GTK-themes-icons.git
