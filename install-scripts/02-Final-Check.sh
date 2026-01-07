@@ -5,6 +5,7 @@
 
 packages=(
   cliphist
+  zen-browser-bin
   kvantum
   rofi-wayland
   imagemagick
