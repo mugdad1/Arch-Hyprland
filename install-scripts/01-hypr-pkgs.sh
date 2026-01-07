@@ -13,6 +13,9 @@ Extra=(
 
 hypr_package=( 
   #aylurs-gtk-shell
+  vscodium
+  hyprsunset
+  zen-browser-bin
   bc
   cliphist
   curl 
